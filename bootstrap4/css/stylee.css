@@ -1,0 +1,71 @@
+.imgsize {
+    width: 100%;
+    height: 500px;
+}
+
+.btcolor {
+    background-color: grey;
+    color: red;
+}
+
+.im1 {
+    width: 30px;
+    height: 30px;
+}
+
+.im2 {
+    width: 40px;
+    height: 40px;
+}
+
+.mar {
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+.rw {
+    background-color: blue;
+}
+.style{
+	width: 100%;
+	margin-top:23%;
+	margin-left: 10%;
+}
+.rw1{
+	margin-top: 10%;
+}
+.img3{
+	margin-left: 25%;
+	width: 60%;
+}
+.img2{
+	margin-left: 25%;
+	width: 60%;
+	height: 150px;
+	margin-top: 8%;
+}
+.img1{
+	margin-left: 25%;
+	width: 60%;
+	height: 150px;
+	margin-top: 10%;
+}
+.img0{
+	margin-left: 25%;
+	width: 60%;
+	margin-top: 20%;
+}
+.nav{
+	color: white;
+}
+.map{
+	width: 100%;
+}
