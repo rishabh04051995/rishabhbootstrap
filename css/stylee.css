@@ -1,0 +1,141 @@
+body {
+    background-color: lightyellow;
+}
+/* custom class for navigation bar */
+.nav{
+	color: white;
+}
+/* custom class for media query for nav bar */
+.nave{
+
+}
+/* custom class for heading */
+.head1{
+
+}
+/* <!-- button custom class in navbar--> */
+.btcolor {               
+    background-color: grey;
+    color: red;
+}
+.btsize{
+
+}
+/* custom card class */
+.mar {
+    margin-top: 10px;
+}
+
+/* custom image class for carousel */
+.imgsize {
+    width: 100%;
+    height: 500px;
+}
+
+
+/* custom image classes for footer images */
+.im1 {
+    width:40px;
+    height: 40px;
+    margin-left: 88px;
+}
+.im2 {
+    width: 40px;
+    height: 40px;
+    margin-left:12px; 
+}
+.im3 {
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+
+
+/* custom class for footer */
+.footer {
+    background-color: black;
+    color: white;
+    
+}
+/* custom class for color of text of footer */
+.color{
+	margin-top: 17px;
+	color: blue;
+	text-align: center;
+}
+/* custom class for alignment of text at center in footer */
+.align{
+	text-align: center;
+
+}
+
+
+.rw {
+    background-color: blue;
+}
+/* custom class use for tablee styling */
+.style{
+	width: 100%;
+	margin-top:23%;
+	margin-left: 10%;
+}
+/* custom class use for cols on second page */
+.rw1{
+	margin-top: 10%;
+}
+/* custom class for map used on second page */
+.map{
+	width: 110%;
+	margin-left: -13px;
+	height:86%;
+}
+/* custom classes used for images in col on second page */
+.img3{
+	margin-left: 25%;
+	width: 60%;
+}
+.img2{
+	margin-left: 25%;
+	width: 60%;
+	height: 150px;
+	margin-top: 8%;
+}
+.img1{
+	margin-left: 25%;
+	width: 60%;
+	height: 150px;
+	margin-top: 10%;
+}
+.img0{
+	margin-left: 25%;
+	width: 60%;
+	margin-top: 20%;
+}
+.texxt{
+
+}
+/* media query */
+@media screen and (max-width: 435px)
+{
+	.footer{
+		font-size: 12px;
+	}
+	.nave{
+		font-size: 12px;
+	}
+
+	.nav{
+		width: 50%;
+	}
+	.head1{
+		font-size: 20px;
+	}
+
+
+.texxt{
+	font-size: 12px
+}
+.btsize{
+	height: 20px;
+	margin-bottom: -20px;
+}
